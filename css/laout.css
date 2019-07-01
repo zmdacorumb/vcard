@@ -1,0 +1,15 @@
+.userdis{
+    background-image: url("../img/1.jpg");
+    width: 400px;
+    height: 500px;
+    margin: 50px auto;
+    
+    text-align: center;
+}
+.userdis img{
+    margin-left:20px; 
+   
+}
+.userdis span{
+    padding:5px;
+}
